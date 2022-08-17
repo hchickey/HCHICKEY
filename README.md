@@ -1,4 +1,7 @@
-### Hi there 👋
+• 👋 Howdy, I'm @hchickey
+• I'm interested in travel, videography, hiking and kayaking.
+• I'm currently learning C# while attending Nashville Software School for Full Stack Web Developer
+• 
 
 <!--
 **hchickey/HCHICKEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
